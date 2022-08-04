@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rohit/code/rohito/TaxiFareModel/mlruns/1/421f1bb632434219a03a5dbaadbfb42f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 421f1bb632434219a03a5dbaadbfb42f
+run_uuid: 421f1bb632434219a03a5dbaadbfb42f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1659637233142
+status: 1
+tags: []
+user_id: unknown
